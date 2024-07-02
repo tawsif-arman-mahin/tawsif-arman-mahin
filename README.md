@@ -8,10 +8,11 @@
 
 <!-- Text Section / About Me / Overview -->
 ## About Me
-Hi, I'm [Your Name] 👋
+Hi, I'm [Your Name] 👋  
 I am a passionate web developer with expertise in React, Next.js, and Tailwind CSS. I love building web applications and learning new technologies.
 
 <!-- Language Used -->
+## Languages Used
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -28,9 +29,17 @@ I am a passionate web developer with expertise in React, Next.js, and Tailwind C
 
 <!-- Pinned Repositories -->
 ## Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=radical)](https://github.com/your-username/repo-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=radical)](https://github.com/your-username/repo-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-3&theme=radical)](https://github.com/your-username/repo-3)
+<p align="center">
+  <a href="https://github.com/your-username/repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=radical" alt="Repo 1" />
+  </a>
+  <a href="https://github.com/your-username/repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=radical" alt="Repo 2" />
+  </a>
+  <a href="https://github.com/your-username/repo-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-3&theme=radical" alt="Repo 3" />
+  </a>
+</p>
 
 ---
 
@@ -44,6 +53,16 @@ I am a passionate web developer with expertise in React, Next.js, and Tailwind C
 - Feature 1
 - Feature 2
 - Feature 3
+
+## Technologies Used
+- Technology 1
+- Technology 2
+- Technology 3
+
+## How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
 
 ## Technologies Used
 - Technology 1
