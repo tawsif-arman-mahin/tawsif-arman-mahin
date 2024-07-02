@@ -11,13 +11,7 @@
 Hi, I'm [Your Name] 👋
 I am a passionate web developer with expertise in React, Next.js, and Tailwind CSS. I love building web applications and learning new technologies.
 
-<!-- Commit Count / Daily Streak / Language Used -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
+<!-- Language Used -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -60,3 +54,4 @@ I am a passionate web developer with expertise in React, Next.js, and Tailwind C
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/repository-name.git
+
